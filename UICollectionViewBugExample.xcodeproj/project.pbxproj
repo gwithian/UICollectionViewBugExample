@@ -263,6 +263,8 @@
 		E21EA2EE16BC1EA000930144 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UICollectionViewBugExample/UICollectionViewBugExample-Prefix.pch";
 				INFOPLIST_FILE = "UICollectionViewBugExample/UICollectionViewBugExample-Info.plist";
@@ -274,6 +276,8 @@
 		E21EA2EF16BC1EA000930144 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UICollectionViewBugExample/UICollectionViewBugExample-Prefix.pch";
 				INFOPLIST_FILE = "UICollectionViewBugExample/UICollectionViewBugExample-Info.plist";
